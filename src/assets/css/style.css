@@ -5,3 +5,24 @@ body {
   color: #fff;
   font-family: 'Cutive Mono', monospace;
 }
+
+a {
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.home_wrapper {
+	align-content: center;
+	text-align: center;
+}
+
+.btn_subscribe {
+	margin-bottom: 30px;
+}
+
+.btn_subscribe a {
+	background: #fff;
+	color: #000;
+	padding: 10px;
+}
